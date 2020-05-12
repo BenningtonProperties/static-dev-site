@@ -438,7 +438,7 @@ $('#collapseMap').on('shown.bs.collapse', function(e) {
         '<a href="' +
         item.url_point +
         '" class="btn_infobox_detail"></a>' +
-        '<form action="http://maps.google.com/maps" method="get" target="_blank"><input name="saddr" value="' +
+        '<form action="https://maps.google.com/maps" method="get" target="_blank"><input name="saddr" value="' +
         item.get_directions_start_address +
         '" type="hidden"><input type="hidden" name="daddr" value="' +
         item.location_latitude +
