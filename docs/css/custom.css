@@ -1,0 +1,364 @@
+/*============================================================================================*/
+
+
+/* Your custom styles below */
+
+
+/*============================================================================================*/
+
+
+/*-------- COLOR GREEN--------*/
+
+[data-loader="circle-side"] {
+    border: 2px solid #0194bd;
+}
+
+
+/* Main navigation */
+
+header.sticky .main-menu>ul>li span>a {
+    color: #444;
+}
+
+header.sticky .main-menu>ul>li span:hover>a {
+    opacity: 1;
+    color: #0194bd;
+}
+
+.main-menu ul ul li a:hover {
+    color: #0194bd !important;
+}
+
+.main-menu ul ul li:hover>a {
+    background-color: #f9f9f9;
+    color: #0194bd !important;
+    padding-left: 18px;
+}
+
+
+/*-------- 1.1 Typography --------*/
+
+.main_title_2 span em {
+    background-color: #0194bd;
+}
+
+.main_title_3 span em {
+    background-color: #0194bd;
+}
+
+
+/*General links color*/
+
+a {
+    color: #0194bd;
+}
+
+a:hover,
+a:focus {
+    color: #111;
+    text-decoration: none;
+    outline: none;
+}
+
+
+/*-------- 1.2 Buttons --------*/
+
+a.btn_1,
+.btn_1 {
+    background: #0194bd;
+}
+
+a.btn_1.outline,
+.btn_1.outline {
+    border: 2px solid #0194bd;
+    color: #0194bd;
+}
+
+a.btn_map:hover {
+    color: #0194bd;
+}
+
+a.btn_map_in,
+.btn_map_in {
+    background: #0194bd;
+}
+
+
+/*-------- 1.3 Structure --------*/
+
+.hero_in a.btn_photos:hover {
+    color: #0194bd;
+}
+
+
+/* Footer */
+
+footer ul li a:hover {
+    color: #0194bd;
+    opacity: 1;
+}
+
+footer ul.links li a:hover:after {
+    opacity: 1;
+    color: #0194bd;
+}
+
+
+/* Newsletter footer*/
+
+#newsletter input[type='submit'] {
+    background-color: #0194bd;
+}
+
+
+/*============================================================================================*/
+
+
+/* 2.  CONTENT */
+
+
+/*============================================================================================*/
+
+#custom-search-input input[type='submit'] {
+    background-color: #0194bd;
+}
+
+.custom-search-input-2 input[type='submit'] {
+    background-color: #0194bd;
+}
+
+.owl-theme .owl-dots .owl-dot.active span,
+.owl-theme .owl-dots .owl-dot:hover span {
+    background: #0194bd !important;
+}
+
+a.box_news:hover h4 {
+    color: #0194bd;
+}
+
+.box_grid a.wish_bt.liked:after {
+    color: #0194bd;
+}
+
+.box_grid a.wish_bt:hover.liked:after {
+    color: #0194bd;
+}
+
+.box_list a.wish_bt.liked:after {
+    color: #0194bd;
+}
+
+.box_list a.wish_bt:hover.liked:after {
+    color: #0194bd;
+}
+
+.layout_view a:hover {
+    color: #0194bd;
+}
+
+.switch-field label:hover {
+    color: #0194bd;
+}
+
+.secondary_nav ul li a:hover {
+    color: #0194bd;
+}
+
+a.btn_infobox_detail:before:hover {
+    color: #0194bd;
+}
+
+.btn_infobox_get_directions,
+a.btn_infobox_phone {
+    color: #0194bd;
+}
+
+.contact_info ul li h4 {
+    color: #0194bd;
+}
+
+.search_bar_error input[type='submit'] {
+    background-color: #0194bd;
+}
+
+.form_title h3 strong {
+    background-color: #0194bd;
+}
+
+.grid ul li figcaption a:hover,
+.grid ul li figcaption a:focus {
+    color: #0194bd;
+}
+
+ul#cat_nav li a:hover,
+ul#cat_nav li a#active,
+ul#cat_nav li a.active {
+    color: #0194bd;
+}
+
+.list_articles ul li a:hover {
+    color: #0194bd;
+}
+
+#toTop:hover {
+    background-color: #0194bd;
+}
+
+.accordion_2 .card-header h5 a i.indicator {
+    color: #0194bd;
+}
+
+#cookie-bar .cb-policy {
+    background: #0194bd;
+}
+
+.applyBtn.btn.btn-sm.btn-primary {
+    background-color: #0194bd;
+}
+
+
+/*============================================================================================*/
+
+
+/* MAP CLUSTERER */
+
+
+/*============================================================================================*/
+
+.cluster-visible {
+    background-color: #0194bd;
+}
+
+.cluster-visible:before {
+    border: 7px solid #0194bd;
+    box-shadow: inset 0 0 0 4px #0194bd;
+}
+
+
+/*-------- Leaflet cluster --------*/
+
+.marker-cluster div {
+    background-color: #0194bd;
+}
+
+.marker-cluster-small div,
+.marker-cluster-medium div,
+.marker-cluster-large div {
+    background-color: #0194bd;
+}
+
+.marker-cluster div:before {
+    border: 7px solid #0194bd;
+    box-shadow: inset 0 0 0 4px #0194bd;
+}
+
+
+/*============================================================================================*/
+
+
+/* BLOG */
+
+
+/*============================================================================================*/
+
+article.blog .post_info h3 a:hover {
+    color: #0194bd;
+}
+
+.comments-list h3 a:hover {
+    color: #0194bd;
+}
+
+.widget ul.cats a:hover {
+    color: #0194bd;
+}
+
+.tags a:hover {
+    background-color: #0194bd;
+}
+
+.postmeta ul li a:hover {
+    color: #0194bd;
+}
+
+
+/*============================================================================================*/
+
+
+/* PRICING TABLES */
+
+
+/*============================================================================================*/
+
+.pricing-switcher .fieldset {
+    background-color: #0194bd;
+}
+
+.pricing-switcher .switch {
+    background-color: #5ebb79;
+}
+
+@media only screen and (min-width: 769px) {
+    .pricing-wrapper>li::before {
+        background-color: white;
+    }
+}
+
+footer {
+    background-color: #0194bd;
+}
+
+footer ul li a {
+    color: #fff;
+}
+
+footer ul li a:hover {
+    color: #fff;
+}
+
+.hero_in.hotels_detail .wrapper {
+    background-color: rgba(0, 0, 0, 0.4);
+}
+
+.cart_section {
+    background: #1c80a3;
+}
+
+.bs-wizard>.bs-wizard-step>.bs-wizard-dot {
+    background-color: #06becb;
+}
+
+.bs-wizard>.bs-wizard-step>.bs-wizard-dot:after {
+    color: white;
+}
+
+.bs-wizard>.bs-wizard-step.disabled>.bs-wizard-dot {
+    background-color: #06becb;
+}
+
+.custom-search-input-2 input[type='submit']:hover {
+    background-color: #06becb;
+}
+
+.contact_info {
+    background-color: #555;
+}
+
+a.box_feat i,
+a.box_topic i {
+    color: #1c80a3;
+}
+
+a.box_news figure figcaption {
+    background-color: #1c80a3;
+}
+
+a.btn_1:hover,
+.btn_1:hover {
+    background-color: #06becb;
+    color: #fff;
+}
+
+#error_page {
+    background: #0054a6;
+}
