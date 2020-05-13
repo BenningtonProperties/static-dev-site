@@ -33,7 +33,7 @@ $('#collapseMap').on('shown.bs.collapse', function(e) {
           name_point: 'Hotel Mariott',
           get_directions_start_address: '',
           phone: '+3934245255',
-          url_point: 'hotel-detail.html'
+          url_point: 'property-detail.html'
         },
         {
           type_point: 'Bennington Properties',
@@ -45,7 +45,7 @@ $('#collapseMap').on('shown.bs.collapse', function(e) {
           name_point: 'Hotel Lumiere',
           get_directions_start_address: '',
           phone: '+3934245255',
-          url_point: 'hotel-detail.html'
+          url_point: 'property-detail.html'
         },
         {
           type_point: 'Bennington Properties',
@@ -57,103 +57,103 @@ $('#collapseMap').on('shown.bs.collapse', function(e) {
           name_point: 'Hotel Place Concorde',
           get_directions_start_address: '',
           phone: '+3934245255',
-          url_point: 'hotel-detail.html'
+          url_point: 'property-detail.html'
         },
         {
           type_point: 'Bennington Properties',
-          name: 'Hotel Name',
+          name: 'Property Name',
           location_latitude: 48.85837,
           location_longitude: 2.294481,
           map_image_url: 'img/thumb_map_single_hotel.jpg',
           rate: 'Superb | 7.5',
-          name_point: 'Hotel Name',
+          name_point: 'Property Name',
           get_directions_start_address: '',
           phone: '+3934245255',
-          url_point: 'hotel-detail.html'
+          url_point: 'property-detail.html'
         },
         {
           type_point: 'Bennington Properties',
-          name: 'Hotel Name',
+          name: 'Property Name',
           location_latitude: 48.837273,
           location_longitude: 2.335387,
           map_image_url: 'img/thumb_map_single_hotel.jpg',
           rate: 'Superb | 7.5',
-          name_point: 'Hotel Name',
+          name_point: 'Property Name',
           get_directions_start_address: '',
           phone: '+3934245255',
-          url_point: 'hotel-detail.html'
+          url_point: 'property-detail.html'
         },
         {
           type_point: 'Bennington Properties',
-          name: 'Hotel Name',
+          name: 'Property Name',
           location_latitude: 48.860819,
           location_longitude: 2.354507,
           map_image_url: 'img/thumb_map_single_hotel.jpg',
           rate: 'Superb | 7.5',
-          name_point: 'Hotel Name',
+          name_point: 'Property Name',
           get_directions_start_address: '',
           phone: '+3934245255',
-          url_point: 'hotel-detail.html'
+          url_point: 'property-detail.html'
         },
         {
           type_point: 'Bennington Properties',
-          name: 'Hotel Name',
+          name: 'Property Name',
           location_latitude: 48.853798,
           location_longitude: 2.333328,
           map_image_url: 'img/thumb_map_single_hotel.jpg',
           rate: 'Superb | 7.5',
-          name_point: 'Hotel Name',
+          name_point: 'Property Name',
           get_directions_start_address: '',
           phone: '+3934245255',
-          url_point: 'hotel-detail.html'
+          url_point: 'property-detail.html'
         },
         {
           type_point: 'Bennington Properties',
-          name: 'Hotel Name',
+          name: 'Property Name',
           location_latitude: 48.86288,
           location_longitude: 2.287205,
           map_image_url: 'img/thumb_map_single_hotel.jpg',
           rate: 'Superb | 7.5',
-          name_point: 'Hotel Name',
+          name_point: 'Property Name',
           get_directions_start_address: '',
           phone: '+3934245255',
-          url_point: 'hotel-detail.html'
+          url_point: 'property-detail.html'
         },
         {
           type_point: 'Bennington Properties',
-          name: 'Hotel Name',
+          name: 'Property Name',
           location_latitude: 48.865784,
           location_longitude: 2.307314,
           map_image_url: 'img/thumb_map_single_hotel.jpg',
           rate: 'Superb | 7.5',
-          name_point: 'Hotel Name',
+          name_point: 'Property Name',
           get_directions_start_address: '',
           phone: '+3934245255',
-          url_point: 'hotel-detail.html'
+          url_point: 'property-detail.html'
         },
         {
           type_point: 'Bennington Properties',
-          name: 'Hotel Name',
+          name: 'Property Name',
           location_latitude: 48.852729,
           location_longitude: 2.350564,
           map_image_url: 'img/thumb_map_single_hotel.jpg',
           rate: 'Superb | 7.5',
-          name_point: 'Hotel Name',
+          name_point: 'Property Name',
           get_directions_start_address: '',
           phone: '+3934245255',
-          url_point: 'hotel-detail.html'
+          url_point: 'property-detail.html'
         },
         {
           type_point: 'Bennington Properties',
-          name: 'Hotel Name',
+          name: 'Property Name',
           location_latitude: 48.870587,
           location_longitude: 2.318943,
           map_image_url: 'img/thumb_map_single_hotel.jpg',
           rate: 'Superb | 7.5',
-          name_point: 'Hotel Name',
+          name_point: 'Property Name',
           get_directions_start_address: '',
           phone: '+3934245255',
-          url_point: 'hotel-detail.html'
+          url_point: 'property-detail.html'
         }
       ]
     };
